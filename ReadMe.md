@@ -53,7 +53,7 @@ This script also provides a feature to compare historical data and dividend info
 
 1. Run the script and choose the option to compare S&P 500 stocks.
 
-2. The script will retrieve the tickers of the S&P 500 stocks either from a web source or a local database.
+2. The script will retrieve the tickers of the S&P 500 stocks either from a web source or from one of the .csv files in the CSVDataFiles.zip folder. By default, the SP500.csv file is included but you can change it to the Russell2000,3000 or Wilshire5000 indexes by modifying the code with the .csv file you wish to use.
 
 3. It will calculate the historical data and dividend information for each stock.
 
